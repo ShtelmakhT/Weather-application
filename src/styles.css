@@ -46,6 +46,12 @@
   text-decoration: none;
   color: #2b4450;
 }
+.madeBy {
+  font-size: smaller;
+  display: block;
+
+  text-align: center;
+}
 button {
   background: transparent;
   border: 2px solid;
