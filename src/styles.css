@@ -1,0 +1,70 @@
+.container {
+  max-width: 600px;
+  color: #2b4450;
+  margin-top: 10px;
+}
+#weather {
+  padding: 30px;
+  border: 2px solid whitesmoke;
+  border-radius: 40px;
+  background: linear-gradient(-225deg, #5d9fff 0%, #b8dcff 48%, #6bbbff 100%);
+}
+.col-day {
+  text-align: center;
+  border: 2px solid #2e94b9;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
+.search-city {
+  margin: 10px;
+}
+.temperNow {
+  font-size: 68px;
+}
+.weatherCondition {
+  font-size: 22px;
+}
+.input-city {
+  width: 310px;
+  background-color: aliceblue;
+  border: 2px solid #2e94b9;
+  padding: 4px 0;
+  border-radius: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.units {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  top: -40px;
+  font-size: 20px;
+}
+#icon-main {
+  font-size: 52px;
+}
+.unitsLink {
+  text-decoration: none;
+  color: #2b4450;
+}
+button {
+  background: transparent;
+  border: 2px solid;
+  border-radius: 10px;
+  color: #2e94b9;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  transition: all 200ms ease-in-out;
+  font-weight: bold;
+  background-color: aliceblue;
+}
+button:hover {
+  background: #2e94b9;
+  color: #f6f2fe;
+}
+
+h2 {
+  color: whitesmoke;
+  font-size: 40px;
+}
